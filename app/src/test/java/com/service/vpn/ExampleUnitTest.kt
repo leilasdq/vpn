@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.service.vpn
 
 import org.junit.Test
 
